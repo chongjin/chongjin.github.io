@@ -5,7 +5,7 @@ title: Home
 
 <img src="/assets/Chong_Jin_NJ_2022.jpg" width="450" height="300">
 
-I am an Assistant Professor in the [Department of Mathematical Sciences](https://math.njit.edu/) at the [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/) starting from 2022.
+I am an Assistant Professor in the [Department of Mathematical Sciences](https://math.njit.edu/) at the [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/) from 2022.
 
 Between 2020 and 2022, I was a postdoctoral researcher in the Department of Biostatistics, Epidemiology and Informatics at University of Pennsylvania, advised by Professor [Qi Long](https://www.med.upenn.edu/long-lab/). Before moving to Penn, I received my Ph.D. in Biostatistics with a minor in Computer Science at UNC-Chapel Hill advised by Professors [Wei Sun](https://research.fredhutch.org/sun/en.html) and [Danyu Lin](https://dlin.web.unc.edu/) and my B.S. in Mathematics at Peking University.
 
