@@ -3,6 +3,8 @@ layout: category
 title: Publication
 ---
 
+**Jin C**, Lee B, Shen L, Long Q, for the Alzheimer’s Disease Neuroimaging Initiative, for the Alzheimer’s Disease Metabolomics Consortium (2021). Integrating multi-omics summary data using a Mendelian randomization framework. *Briefings in Bioinformatics*. bbac376. [Link to the publication.](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac376/6696140)
+
 **Jin C**, Chen M, Lin DY, Sun W (2021). Cell-type-aware analysis of RNA-seq data. *Nature Computational Science*. 1, 253–261. [Link to the publication.](https://www.nature.com/articles/s43588-021-00055-6) [Link to the preprint.](https://github.com/Sun-lab/CARseq/blob/master/inst/docs/Jin_et_al.-2021-Cell-type-aware_analysis_of_RNA-seq_data.pdf)
 
 Lipner MB, Peng XL, **Jin C**, Xu Y, Gao Y, East MP, Rashid NU, Moffitt RA, Loeza SG, Morrison AB, Golitz BT, Vaziri C, Graves LM, Johnson GL, Yeh JJ (2020). Irreversible JNK1-JUN inhibition by JNK-IN-8 sensitizes pancreatic cancer to 5-FU/FOLFOX chemotherapy. *JCI Insight*. 2020;5(8):e129905.
