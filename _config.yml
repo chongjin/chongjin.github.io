@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Chong Jin
 tagline:          'Personal Website'
-description:      'postdoctoral researcher'
+description:      'Statistics and Data Science'
 url:              https://chongjin.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
