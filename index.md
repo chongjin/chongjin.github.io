@@ -26,7 +26,7 @@ Between 2020 and 2022, I was a postdoctoral researcher in the Department of Bios
 
 ## Prospective Students
 
-Students interested in a fully-funded Ph.D. position in [the Applied Probability & Statistics track of the Doctoral Program in Mathematical Sciences at the New Jersey Institute of Technology](https://web.njit.edu/~matveev/NJIT_DMS_PhD_flyer.pdf) starting in Fall 2023 may start an inquiry by sending me an email and including the CV, the transcript, and the research statement. A sample of the placements of doctoral graduates can be found [here](https://math.njit.edu/phd-alumni).
+Students interested in a fully-funded Ph.D. position in [the Applied Probability & Statistics track of the Doctoral Program in Mathematical Sciences at the New Jersey Institute of Technology](https://web.njit.edu/~matveev/NJIT_DMS_PhD_flyer.pdf) starting in Fall 2023 may start an inquiry by sending me an email and including the CV, the transcript, and the research statement. A sample of the placements of the Ph.D. program graduates can be found [here](https://math.njit.edu/phd-alumni).
 
 ## Teaching Experience
 
